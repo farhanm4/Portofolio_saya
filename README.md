@@ -1,4 +1,4 @@
-![Watch Now](./img/Design.jpg)
+![Watch Now](./Design.jpg)
 # One page Portfolio Website (HTML CSS Project)
 **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube.com/channel/UChawadR2TyIsmdKx7hMd65Q?style=social) : youtube.com/channel/UChawadR2TyIsmdKx7hMd65Q**
 
